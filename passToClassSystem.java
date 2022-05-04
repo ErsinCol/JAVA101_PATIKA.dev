@@ -36,7 +36,7 @@ public class passToClassSystem {
         }
         double average=total/sayac;
         System.out.println("Ortalamanız: "+average);
-        if(average>55){
+        if(average>=55){
             System.out.println("Sınıfı geçtiniz...");
         }else{
             System.out.println("Sınıfta kaldınız...");
